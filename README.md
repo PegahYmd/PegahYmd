@@ -4,7 +4,7 @@ Web Developer skilled in creating dynamic, responsive, and user-centric web appl
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering student
+- 🎓 Computer Engineering (Artificial Intelligence) student
 - 🌱 Currently learning Machine Learning, deep learning, and data-driven AI systems.
 - 🤝 Looking to collaborate on open-source web apps and educational platforms
 
