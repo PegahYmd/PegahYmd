@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Pegah
 
-<!--
-**PegahYmd/PegahYmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer skilled in creating dynamic, responsive, and user-centric web applications and dashboards.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student
+- 🌱 Currently learning Machine Learning, deep learning, and data-driven AI systems.
+- 🤝 Looking to collaborate on open-source web apps and educational platforms
+
+## 🛠️ Technology Stack
+
+- **Frontend**: React, JavaScript, HTML, CSS, Bootstrap, jQuery 
+- **Backend**: Node.js, Express
+- **Database**: SQLite, Postgres, MongoDB
+- **Design**: Figma, Canva for wireframes and prototypes  
+- **Authentication**: Cookie-based session login
+
+  ## Reach Me
+
+- [Email](mailto:pegahymd@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pegah-yarahmadi-b3628714a/)
+
